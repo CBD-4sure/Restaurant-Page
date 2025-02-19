@@ -5,7 +5,7 @@ export function menu(){
     const div1 = document.createElement('div')
     const div2 = document.createElement('div')
 
-    div1.innerHTML = "<h1>This is Menu page</h1> "
+    div1.innerHTML = "<h1> Menu page</h1> "
     const p = document.createElement('img')
     p.src = pic
     div2.appendChild(p)
